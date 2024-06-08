@@ -4,7 +4,8 @@ Thanks for helping make GitHub safe for everyone.
 
 GitHub takes the security of our software products and services seriously, including all of the open source code repositories managed through our GitHub organizations, such as [GitHub](https://github.com/GitHub).
 
-Even though [open source repositories are outside of the scope of our bug bounty program](https://bounty.github.com/index.html#scope) and therefore not eligible for bounty rewards, we will ensure that your finding gets passed along to the appropriate maintainers for remediation. 
+Even though [open source repositories are outside of the scope of our bug bounty program](https://bounty.githu<img width="72" alt="icon" src="https://github.com/github/.github/assets/171999940/344cc8bf-0560-40c2-b2ea-9e6fb38119ef">
+b.com/index.html#scope) and therefore not eligible for bounty rewards, we will ensure that your finding gets passed along to the appropriate maintainers for remediation. 
 
 ## Reporting Security Issues
 
